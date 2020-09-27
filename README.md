@@ -1,6 +1,8 @@
 # To run the app
 
-run package get:
+clone the github repo
+
+get all dependencies:
 > flutter package get
 
 run the app:
