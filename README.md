@@ -1,4 +1,4 @@
-#To run the app
+# To run the app
 
 run package get:
 > flutter package get
